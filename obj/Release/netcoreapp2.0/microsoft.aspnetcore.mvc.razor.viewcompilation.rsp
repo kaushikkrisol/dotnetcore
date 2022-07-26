@@ -1,0 +1,12 @@
+H:\KaushikTeamNew\powershelldev\Samplenetcore
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Samplenetcore
+--content-root=H:\KaushikTeamNew\powershelldev\Samplenetcore
+--file=H:\KaushikTeamNew\powershelldev\Samplenetcore\Views\Home\About.cshtml
+--file=H:\KaushikTeamNew\powershelldev\Samplenetcore\Views\Home\Contact.cshtml
+--file=H:\KaushikTeamNew\powershelldev\Samplenetcore\Views\Home\Index.cshtml
+--file=H:\KaushikTeamNew\powershelldev\Samplenetcore\Views\Shared\Error.cshtml
+--file=H:\KaushikTeamNew\powershelldev\Samplenetcore\Views\Shared\_Layout.cshtml
+--file=H:\KaushikTeamNew\powershelldev\Samplenetcore\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=H:\KaushikTeamNew\powershelldev\Samplenetcore\Views\_ViewImports.cshtml
+--file=H:\KaushikTeamNew\powershelldev\Samplenetcore\Views\_ViewStart.cshtml

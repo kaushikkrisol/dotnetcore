@@ -1,0 +1,11 @@
+H:\KaushikTeamNew\powershelldev\Samplenetcore\bin\Release\netcoreapp2.0\Samplenetcore.deps.json
+H:\KaushikTeamNew\powershelldev\Samplenetcore\bin\Release\netcoreapp2.0\Samplenetcore.runtimeconfig.json
+H:\KaushikTeamNew\powershelldev\Samplenetcore\bin\Release\netcoreapp2.0\Samplenetcore.runtimeconfig.dev.json
+H:\KaushikTeamNew\powershelldev\Samplenetcore\bin\Release\netcoreapp2.0\Samplenetcore.dll
+H:\KaushikTeamNew\powershelldev\Samplenetcore\bin\Release\netcoreapp2.0\Samplenetcore.pdb
+H:\KaushikTeamNew\powershelldev\Samplenetcore\obj\Release\netcoreapp2.0\Samplenetcore.csprojResolveAssemblyReference.cache
+H:\KaushikTeamNew\powershelldev\Samplenetcore\obj\Release\netcoreapp2.0\Samplenetcore.csproj.CoreCompileInputs.cache
+H:\KaushikTeamNew\powershelldev\Samplenetcore\obj\Release\netcoreapp2.0\Samplenetcore.AssemblyInfoInputs.cache
+H:\KaushikTeamNew\powershelldev\Samplenetcore\obj\Release\netcoreapp2.0\Samplenetcore.AssemblyInfo.cs
+H:\KaushikTeamNew\powershelldev\Samplenetcore\obj\Release\netcoreapp2.0\Samplenetcore.dll
+H:\KaushikTeamNew\powershelldev\Samplenetcore\obj\Release\netcoreapp2.0\Samplenetcore.pdb
